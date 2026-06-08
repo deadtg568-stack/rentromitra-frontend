@@ -1,0 +1,63 @@
+export const BHOPAL_LOCALITIES = [
+  "Arera Colony",
+  "Gulmohar Colony",
+  "Shahpura",
+  "Char Imli",
+  "E-7 Arera Colony",
+  "Bawadiya Kalan",
+  "Danish Nagar",
+  "Trilanga",
+  "Rohit Nagar",
+  "Chunabhatti",
+  "Kolar Road",
+  "Salaiya",
+  "Katara Hills",
+  "Hoshangabad Road",
+  "BHEL",
+  "MP Nagar Zone 1",
+  "MP Nagar Zone 2",
+  "MP Nagar Zone 3",
+  "Indrapuri",
+  "Saket Nagar",
+  "Sonagiri",
+  "Ayodhya Bypass",
+  "Anand Nagar",
+  "Nehru Nagar",
+  "Govindpura",
+  "Habibganj",
+  "Bagsewania",
+  "Misrod",
+  "Piplani",
+  "Rachna Nagar",
+  "Ashoka Garden",
+  "Gautam Nagar",
+  "Shyamla Hills",
+  "Gandhi Nagar"
+];
+
+export const BHOPAL_COLLEGES = [
+  "Maulana Azad National Institute of Technology (MANIT)",
+  "Indian Institute of Science Education and Research (IISER) Bhopal",
+  "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)",
+  "University Institute of Technology (UIT RGPV)",
+  "Lakshmi Narain College of Technology (LNCT)",
+  "LNCT Excellence",
+  "Technocrats Institute of Technology (TIT)",
+  "Sagar Institute of Research & Technology (SIRT)",
+  "Oriental Institute of Science & Technology (OIST)",
+  "All India Institute of Medical Sciences (AIIMS) Bhopal",
+  "Barkatullah University",
+  "Jagran Lakecity University",
+  "SAGE University Bhopal",
+  "People's University",
+  "Bhopal School of Social Sciences (BSSS)",
+  "Career College"
+];
+
+export const BHOPAL_ZONES = [
+  { value: "central", label: "Central Bhopal" },
+  { value: "north", label: "North Bhopal" },
+  { value: "south", label: "South Bhopal" },
+  { value: "east", label: "East Bhopal" },
+  { value: "west", label: "West Bhopal" }
+];
